@@ -13,7 +13,8 @@ void grayDecode(string path, cv::Mat& binaryCoded, cv::Mat& cam, GrayCodeMode mo
 void thresholdedToBinary(vector<cv::Mat>& thresholded, cv::Mat& binaryCoded);
 void grayToBinary(cv::Mat& binaryCoded, int n);
 
-cv::Mat buildRemap(cv::Mat& binaryCodedX, cv::Mat& binaryCodedY, cv::Mat& mask, int tw, int th);
+cv::Mat buildRemap(cv::Mat& bi
+                   naryCodedX, cv::Mat& binaryCodedY, cv::Mat& mask, int tw, int th);
 void applyRemap(cv::Mat& remap, cv::Mat& input, cv::Mat& output, int width, int height);
 
 // you have to handle allocation

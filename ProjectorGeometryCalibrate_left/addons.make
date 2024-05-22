@@ -1,0 +1,6 @@
+ofxAVFoundationGrabber
+ofxCameraSaveLoad
+ofxOpenCv
+ofxCv
+ofxDropdown
+ofxGui
