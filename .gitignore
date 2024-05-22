@@ -16,7 +16,6 @@
 # other
 .svn/
 obj/
-bin/
 vs2010/
 build/
 !data/
