@@ -1,0 +1,10 @@
+{
+    "cameras": {
+        "Selected_videoSource": {
+            "FaceTime_HD_Camera___47B4B64B-7067-4B9C-AD2B-AE273A71F4B5": "0",
+            "NDI_Video___BB86C477-373F-49D9-AA4B-CE86A0E883F1": "0",
+            "Usb_Camera___0x11300000bda3035": "1"
+        },
+        "debug": "1"
+    }
+}
